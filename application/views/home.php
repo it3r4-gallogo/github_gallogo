@@ -5,6 +5,7 @@
 </head>
 <body>
 	<h1> This is  my github activity lab - Gallogo</h1>
+	<p>Hi I modified Richelyn Gallogo's repo" - Escol</p>
 	<script src="<?php echo "assets/js/myscript.js"; ?>" ></script>
 </body>
 </html>
